@@ -1,3 +1,3 @@
-function {
-1234
-}
+jQuery(document).ready(function($) {
+	$('h1').css
+});
